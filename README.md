@@ -1,5 +1,5 @@
 # HRM-developers
-Full form of HRM is Human Reaction Measurement.
+Full form of HRTM is Human Reaction Time Measurement.
 <br>
 This is my first Big Project.
 <br>
