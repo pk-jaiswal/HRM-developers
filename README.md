@@ -1,4 +1,4 @@
-# HRM-developers
+# HRTM-developers
 Full form of HRTM is Human Reaction Time Measurement.
 <br>
 This is my first Big Project.
